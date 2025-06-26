@@ -1,0 +1,1 @@
+Coinomy is a smart and stylish personal finance tracker app developed using Kotlin and Android Studio. Designed for simplicity, clarity, and control, Coinomy helps users manage their expenses, income, and budget — all in one place
